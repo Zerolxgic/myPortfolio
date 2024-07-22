@@ -5,19 +5,19 @@ My Portfolio &amp; Projects Showcase
 
 # Zerolgxic's Portfolio
 
-Welcome to my personal portfolio repository. Here, you can find various projects that I have worked on, showcasing my skills in game design, web development, and automation.
+Welcome to my portfolio repository. Here, you can find various projects I have worked on, showcasing my skills in web development, game design, and more.
 
 ## About Me
-- **Name**: Zerolgxic
+- **Name**: Michael
 - **Role**: Maintenance Technician & Aspiring Developer
-- **Interests**: Game Design, Web Development, Automation
+- **Interests**: Game Design, Web Development and Automation.
 
 ## Projects
 
 ### Project 1: Interactive Resume
-- **Description**: A web-based interactive resume that allows users to create and customize their own resumes online.
+- **Description**: A web-based interactive resume allows users to create and customize their resumes online.
 - **Technologies**: HTML, CSS, JavaScript, Node.js
-- **Link**: [Live Demo](http://example.com) | [Repository](http://github.com/zerolgxic/interactive-resume)
+- **Link**: [Live Demo](http://example.com) | [Repository](http://github.com/zerolgxic/interactive-resume) THIS IS JUST A IDAE THE PROJECT IS NOT ON HERE YET!!
 
 ### Project 2: Game Design Prototype
 - **Description**: A prototype for a 2D platformer game developed using Unity and C#.
