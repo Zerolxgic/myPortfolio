@@ -50,7 +50,7 @@ Welcome to my portfolio repository. Here, you can find various projects I have w
 
 ## Contact
 - **Email**: [zerolgxic@gmail.com](mailto:zerolgxic@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](#)
+- **LinkedIn**: [linkedin.com/in/michael-bacca/](#)
 
 ## License
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
