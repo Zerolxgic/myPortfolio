@@ -16,11 +16,11 @@ Welcome to my portfolio repository. Here, you can find various projects I have w
 - **Interests**: Game Design, Web Development, and Automation.
 
 
-### The Odin Project
+# The Odin Project
 
     "Hello Odin!"
 
-# Foundations    
+### Foundations    
 #### Project 1: [Project Name]
 - **Description**: Brief description of the project.
 - **Technologies**: List of technologies used.
