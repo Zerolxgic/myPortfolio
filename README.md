@@ -15,20 +15,10 @@ Welcome to my portfolio repository. Here, you can find various projects I have w
 - **Role**: Maintenance Technician & Aspiring Developer
 - **Interests**: Game Design, Web Development, and Automation.
 
-## Projects
-
-### Project 1: Interactive Resume
-- **Description**: A web-based interactive resume that allows users to create and customize their resumes online.
-- **Technologies**: HTML, CSS, JavaScript, Node.js
-- **Link**: [Live Demo](#) | [Repository](#) 
-  **Note**: This is just an idea; the project is not on here yet!!
-
-### Project 2: Game Design Prototype
-- **Description**: A prototype for a 2D platformer game developed using Unity and C#.
-- **Technologies**: Unity, C#
-- **Link**: [Live Demo](#) | [Repository](#)
 
 ### The Odin Project
+
+    "Hello Odin!"
 
 #### Project 1: [Project Name]
 - **Description**: Brief description of the project.
@@ -48,13 +38,6 @@ Welcome to my portfolio repository. Here, you can find various projects I have w
 - **Link**: [Live Demo](#) | [Repository](#)
 
 #### Project 2: [Project Name]
-- **Description**: Brief description of the project.
-- **Technologies**: List of technologies used.
-- **Link**: [Live Demo](#) | [Repository](#)
-
-### Other Projects
-
-#### Project 1: [Project Name]
 - **Description**: Brief description of the project.
 - **Technologies**: List of technologies used.
 - **Link**: [Live Demo](#) | [Repository](#)
