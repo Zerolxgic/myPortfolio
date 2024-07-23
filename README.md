@@ -20,6 +20,7 @@ Welcome to my portfolio repository. Here, you can find various projects I have w
 
     "Hello Odin!"
 
+# Foundations    
 #### Project 1: [Project Name]
 - **Description**: Brief description of the project.
 - **Technologies**: List of technologies used.
