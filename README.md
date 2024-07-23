@@ -31,7 +31,7 @@ Welcome to my portfolio repository. Here, you can find various projects I have w
 - **Technologies**: List of technologies used.
 - **Link**: [Live Demo](#) | [Repository](#)
 
-### freeCodeCamp
+# freeCodeCamp
 
 #### Project 1: [Project Name]
 - **Description**: Brief description of the project.
