@@ -1,4 +1,4 @@
-<h1 style="font-size: 100px;">myPortfolio</h1>
+# myPortfolio
 ## My Portfolio &amp; Project Showcase
 
 # *THIS IS MOSTLY STILL A MOCKUP!! I'm working on updating everything to be current.*
