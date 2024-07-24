@@ -6,7 +6,7 @@
 # My Portfolio & Projects Showcase
 
 
-## Zerolgxic's Portfolio
+## Micheal Bacca's Portfolio
 
 Welcome to my portfolio repository. Here, you can find various projects I have worked on, showcasing my skills in web development, game design, and more.
 
