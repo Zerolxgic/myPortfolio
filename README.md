@@ -11,9 +11,12 @@
 Welcome to my portfolio repository. Here, you can find various projects I have worked on, showcasing my skills in web development, game design, and more.
 
 ## About Me
-- **Name**: Michael
+- **Name**: Michael Bacca
 - **Role**: Maintenance Technician & Aspiring Developer
-- **Interests**: Game Design, Web Development, and Automation.
+- **Interests**: Web Development & Applications, Game Development and Automation.
+- **Languages**: English.
+- **Location**: United States.
+
 
 # The Odin Project
 
