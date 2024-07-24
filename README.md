@@ -44,9 +44,9 @@ Welcome to my portfolio repository. Here, you can find various projects I have w
 - **Link**: [Live Demo](#) | [Repository](#)
 
 ## Skills
-- **Programming Languages**: JavaScript, TypeScript, HTML, CSS, Python, C#
-- **Frameworks and Libraries**: React, Node.js, Express, Django, Flask, .NET
-- **Tools and Platforms**: Git, GitHub, VS Code, WSL2, Docker
+- **Programming Languages**: JavaScript, HTML, CSS, Python, C#
+- **Frameworks and Libraries**: React, Node.js, Express, .NET
+- **Operating Systems, Tools & Platforms**: Linux , Windows, WSL2, Git, GitHub, VS Code 
 
 ## Contact
 - **Email**: [zerolgxic@gmail.com](mailto:zerolgxic@gmail.com)
