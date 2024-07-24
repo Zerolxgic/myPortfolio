@@ -15,7 +15,6 @@ Welcome to my portfolio repository. Here, you can find various projects I have w
 - **Role**: Maintenance Technician & Aspiring Developer
 - **Interests**: Game Design, Web Development, and Automation.
 
-
 # The Odin Project
 
     "Hello Odin!"
