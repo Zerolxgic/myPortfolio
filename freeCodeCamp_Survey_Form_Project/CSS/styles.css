@@ -1,0 +1,109 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(180deg, #B1AFFF, #FFFED3, #FFE9D0);
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 0;
+    color: #1A3636;
+    font-size: 100px;
+    font-family: 'Lucida Sans';
+}
+
+p {
+    color:#1A3636;
+    font-family: 'Lucida Sans';
+}
+
+p#description {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: #1A3636;
+    font-family: 'Lucida Sans';
+}
+
+#survey-form {
+    background-color: #f7f9f2c9;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 1000px;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Lucida Sans';
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    color: #1A3636;
+    font-family: 'Lucida Sans';
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+select,
+textarea {
+    width: calc(100% - 22px);
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+button {
+    background-color: #BBE9FF;
+    color: rgb(8, 8, 8);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: block;  
+    font-size: 16px;
+    cursor: pointer;
+    margin: 0 auto;  
+    width: 200px;
+    height: 50px;
+    border: none;
+    font-family:'Lucida Sans';
+
+}
+
+
+button:hover {
+    background-color: #6bc7fc;
+
+}
+
+.form-section {
+    background-color: #BBE9FF;
+    border-radius: 8px;
+    padding: 25px;
+    margin: 5px 0; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+}
+
+textarea {
+    height: 150px;
+}
+

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/styles.css">
+    <title>Fitness Survey Form</title>
+</head>
+<body>
+    <h1 id="title"><em>Fitness Survey</em></h1>
+    <p id="description"><strong>Please answer the following questions about your exercising habits.</strong></p>
+    <form id="survey-form">
+        <div class="form-section">
+            <label id="name-label" for="name">Name:</label>
+            <input type="text" id="name" name="name" placeholder="Your Name" required>
+            
+            <label id="email-label" for="email">Email:</label>
+            <input type="email" id="email" name="email" placeholder="Your Email" required>
+            
+            <label id="number-label" for="number">Age:</label>
+            <input type="number" id="number" name="number" placeholder="Your Age" min="10" max="100" required>
+        </div>
+
+        <div class="form-section">
+            <label for="dropdown">How often do you exercise?</label>
+            <select id="dropdown" name="dropdown">
+                <option value="daily">Daily</option>
+                <option value="few-times-week">2 to 4 times a week</option>
+                <option value="weekly">Biweekly</option>
+                <option value="monthly">A few times a month</option>
+                <option value="rarely">Rarely or never</option>
+            </select>
+        </div>
+
+        <div class="form-section">
+            <p>Preferred Type of Exercise:</p>
+            <label><input type="radio" name="exercise-type" value="lifting" required> Lifting</label>
+            <label><input type="radio" name="exercise-type" value="cardio" required> Cardio</label>
+            <label><input type="radio" name="exercise-type" value="both" required> Both</label>
+        </div>
+
+        <div class="form-section">
+            <p>Select your preferred lifting exercises:</p>
+            <label><input type="checkbox" name="lifting" value="bench-press"> Bench Press</label>
+            <label><input type="checkbox" name="lifting" value="deadlift"> Deadlift</label>
+            <label><input type="checkbox" name="lifting" value="squats"> Squats</label>
+            <label><input type="checkbox" name="lifting" value="overhead-press"> Overhead Press</label>
+            <label><input type="checkbox" name="lifting" value="bicep-curls"> Bicep Curls</label>
+            <label><input type="checkbox" name="lifting" value="tricep-extensions"> Tricep Extensions</label>
+            <label><input type="checkbox" name="lifting" value="pull-ups"> Weighted Pull-ups</label>
+            <label><input type="checkbox" name="lifting" value="rows"> Barbell Rows</label>
+        </div>
+
+        <div class="form-section">
+            <p>Select your preferred cardio exercises:</p>
+            <label><input type="checkbox" name="cardio" value="running"> Running</label>
+            <label><input type="checkbox" name="cardio" value="cycling"> Cycling</label>
+            <label><input type="checkbox" name="cardio" value="swimming"> Swimming</label>
+            <label><input type="checkbox" name="cardio" value="jump-rope"> Jump Rope</label>
+            <label><input type="checkbox" name="cardio" value="elliptical"> Elliptical</label>
+            <label><input type="checkbox" name="cardio" value="rowing-machine"> Rowing Machine</label>
+            <label><input type="checkbox" name="cardio" value="stair-climber"> Stair Climber</label>
+            <label><input type="checkbox" name="cardio" value="dancing"> Treadmill</label>
+        </div>
+
+        <div class="form-section">
+            <label for="comments">Additional comments:</label>
+            <textarea id="comments" name="comments" placeholder="Your comments"></textarea>
+        </div>
+    
+        <button type="submit" id="submit">Submit</button>
+    </form>
+</body>
+</html>
