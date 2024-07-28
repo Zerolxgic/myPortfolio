@@ -35,10 +35,10 @@ Welcome to my portfolio repository. Here, you can find various projects I have w
 
 # Free Code Camp
 
-#### Project 1: [Project Name]
-- **Description**: Brief description of the project.
-- **Technologies**: List of technologies used.
-- **Link**: [Live Demo](#) | [Repository](#)
+#### Project 1: [Survey Form]
+- **Description**: A simple Survey Form.
+- **Technologies**: HTML,CSS.
+- **Link**: [Live Demo](#) | [Repository](https://github.com/Zerolxgic/myPortfolio)
 
 #### Project 2: [Project Name]
 - **Description**: Brief description of the project.
