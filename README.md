@@ -38,7 +38,7 @@ Welcome to my portfolio repository. Here, you can find various projects I have w
 #### Project 1: [Survey Form]
 - **Description**: A simple Survey Form.
 - **Technologies**: HTML,CSS.
-- ##About project##: I built this simple survey webpage in HTML & CSS using the instructions given by freeCodeCamp's course for this project. 
+- **About project**: I built this simple survey webpage in HTML & CSS using the instructions given by freeCodeCamp's course for this project. 
 - **Link**: [Live Demo](#) | [Repository](https://github.com/Zerolxgic/myPortfolio)
 
 #### Project 2: [Project Name]
