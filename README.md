@@ -36,15 +36,15 @@ Welcome to my portfolio repository. Here, you can find various projects I have w
 # Free Code Camp
 
 #### Project 1: [Survey Form]
-- **Description**: A simple Survey Form.
+- **Description**: A simple survey form I made for my 1st project.
 - **Technologies**: HTML,CSS.
 - **About project**: I built this simple survey webpage in HTML & CSS using the instructions given by freeCodeCamp's course for this project. 
 - **Link**: [Live Demo](#) | [Repository](https://github.com/Zerolxgic/myPortfolio)
 
-#### Project 2: [Project Name]
-- **Description**: Brief description of the project.
-- **Technologies**: List of technologies used.
-- **Link**: [Live Demo](#) | [Repository](#)
+#### Project 2: [Tribute site]
+- **Description**: I was tasked with making a tribute site so I made one for my favorite fictional characters.
+- **Technologies**: HTML, CSS.
+- **Link**: [Live Demo](#) | [Repository](https://github.com/Zerolxgic/myPortfolio/tree/main/freeCodeCamp_Tribute_Site_project)
 
 ## Skills
 - **Programming Languages**: JavaScript, HTML, CSS, Python, C#
