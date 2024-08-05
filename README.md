@@ -17,7 +17,7 @@ Welcome to my portfolio repository. Here, you can find various projects I have w
 - **Languages**: English.
 - **Location**: United States.
 
-
+## Live demos are not live yet, I'm working on building my site now.
 # The Odin Project
 
     "Hello Odin!"
