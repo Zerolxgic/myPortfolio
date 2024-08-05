@@ -1,0 +1,131 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: "Modern Antiqua", serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.6;
+    background: linear-gradient(90deg, #202e31, #141414);
+    color: #141414;
+}
+
+#main {
+    flex: 1 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    max-width: 800px;
+    width: 100%;
+    margin: 20px auto;
+    padding: 20px;
+    background: #d6d698;
+    border-radius: 50px;
+    box-shadow: #141414 0 0 15px;
+}
+
+#title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#img-div {
+    text-align: center;
+    margin: 20px 0;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 50px;
+    max-width: 700px;
+    max-height: 700px;
+    box-shadow: #141414 0 0 15px;
+}
+
+#img-caption {
+    margin-top: 10px;
+    font-style: italic;
+    color: #141414;
+}
+
+#tribute-info {
+    margin: 20px 0;
+}
+
+#tribute-info h2,
+#tribute-info h3 {
+    margin-top: 20px;
+    color: #141414;
+}
+
+#tribute-info ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+#quotes {
+    margin: 20px 0;
+}
+
+#quotes h2 {
+    margin-top: 20px;
+    color: #141414;
+}
+
+#quotes blockquote {
+    margin: 10px 0;
+    padding: 10px;
+    background: #fcfcfc;
+    border-left: 5px solid #fcfcfc;
+    border-radius: 10px;
+    font-style: italic;
+    color: #141414;
+    box-shadow: #141414 0 0 5px;
+}
+
+#tribute-link {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    background: #202e31;
+    color: #d6d698;
+    text-decoration: none;
+    border-radius: 10px;
+    margin: 20px 0 0 0;
+    box-shadow: #141414 0 0 5px;
+}
+
+#tribute-link:hover {
+    background: #141414;
+}
+
+#footer {
+    text-align: center;
+    padding: 20px;
+    background: linear-gradient(90deg, #202e31, #141414);
+    color: #d6d698;
+    border-top: 1px solid #d6d698;
+    flex-shrink: 0;
+}
+
+#footer p {
+    margin: 0 0 10px;
+}
+
+#footer a {
+    color: #d6d698;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+#footer a:hover {
+    text-decoration: underline;
+}
