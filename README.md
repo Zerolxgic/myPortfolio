@@ -33,7 +33,7 @@ Welcome to my portfolio repository. Here, you can find various projects I have w
 - **Technologies**: List of technologies used.
 - **Link**: [Live Demo](#) | [Repository](#)
 
-# Free Code Camp
+# freeCodeCamp
 
 #### Project 1: [Survey Form]
 - **Description**: A simple survey form I made for my 1st project.
