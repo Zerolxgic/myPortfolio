@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang"en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GD_Script</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <nav id="navbar">
+      <header>Godot Scripting Guide</header>
+      <a class="nav-link" href="#Introduction">Introduction</a>
+        <a class="nav-link" href="#GDScript_Basics">GDScript Basics</a>
+        <a class="nav-link" href="#Variables_and_Types">Variables and Types</a>
+        <a class="nav-link" href="#Functions_and_Logic">Functions and Logic</a>
+        <a class="nav-link" href="#Object-Oriented_Programming">Object-Oriented Programming</a>
+    </nav>
+
+    <main id="main-doc">
+      <section class="main-section" id="Introduction">
+        <header>Introduction</header>
+        <p>Godot Engine uses a variety of scripting languages to create game logic.</p>
+        <p>The primary language is GDScript, which is designed specifically for Godot.</p>
+        <code>print("Hello, Godot!")</code>
+        <p>Other supported languages include:</p>
+        <ul>
+          <li>C#</li>
+          <li>C++</li>
+          <li>Visual Scripting</li>
+        </ul>
+      </section>
+
+      <section class="main-section" id="GDScript_Basics">
+        <header>GDScript Basics</header>
+        <p>GDScript is a high-level, dynamically typed programming language.</p>
+        <p>It uses Python-like syntax for ease of use.</p>
+        <code>
+          var number = 5  # This creates a variable called number and stores the value 5 in it.<br><br>
+          var greeting = "Hello"  # This creates a variable called greeting and stores the text "Hello".
+
+       </code>
+     </section>
+
+     <section class="main-section" id="Variables_and_Types">
+       <header>Variables and Types</header>
+       <p>GDScript supports various data types:</p>
+       <ul>
+         <li>int</li>
+         <li>float</li>
+         <li>String</li>
+         <li>Array</li>
+         <li>Dictionary</li>
+       </ul>
+       <code>
+         var age: int = 30<br>
+         var height: float = 1.75<br>
+         var name: String = "John Doe"
+       </code>
+     </section>
+
+     <section class="main-section" id="Functions_and_Logic">
+        <header>Functions and Logic</header>
+        <p>Functions in GDScript are defined using the 'func' keyword.</p>
+        <p>Control structures include if, elif, else, for, and while.</p>
+        <code>
+        func greet(name: String) -> void:<br>
+            &nbsp;print("Hello, " + name + "!")<br><br>
+
+        func is_adult(age: int) -> bool:<br>
+            &nbsp;return age >= 18
+        </code>
+      </section>
+
+     <section class="main-section" id="Object-Oriented_Programming">
+       <header>Object-Oriented Programming</header>
+            <p>GDScript supports object-oriented programming concepts.</p>
+            <p>You can create classes, inherit from other classes, and use polymorphism.</p>
+            <code>
+                # Define a class called MyClass<br>
+                class MyClass:<br>
+                    var property = 0<br><br>
+
+                    func method():<br>
+                        print("Method called")<br><br>
+
+                # Define a class called ChildClass that extends MyClass<br>
+                class ChildClass extends MyClass:<br><br>
+
+                    func method():<br>
+                        print("Child method called")
+                </code>
+     </section>
+    </main>
+  </body>
+  </html>
