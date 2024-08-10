@@ -46,6 +46,11 @@ Welcome to my portfolio repository. Here, you can find various projects I have w
 - **Technologies**: HTML, CSS.
 - **Link**: [Live Demo](#) | [Repository](https://github.com/Zerolxgic/myPortfolio/tree/main/freeCodeCamp_Tribute_Site_project)
 
+#### Project 3: [Technical Documentation Page]
+- **Description**: The technical document page project from freeCodeCamp. I chose to use Godot's scripting language, GDScript for my mockup. 
+- **Technologies**: HTML, CSS.
+- **Link**: [Live Demo](#) | [Repository](https://github.com/Zerolxgic/myPortfolio/tree/main/freeCodeCamp_Technical_Documentation_Page)
+
 ## Skills
 - **Programming Languages**: JavaScript, HTML, CSS, Python, C#
 - **Frameworks and Libraries**: React, Node.js, Express, .NET
