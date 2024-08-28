@@ -1,5 +1,4 @@
 # myPortfolio
-## My Portfolio &amp; Project Showcase
 
 # My Portfolio & Projects Showcase
 
