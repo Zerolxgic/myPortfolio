@@ -1,8 +1,6 @@
 # myPortfolio
 ## My Portfolio &amp; Project Showcase
 
-# *THIS IS MOSTLY STILL A MOCKUP!! I'm working on updating everything to be current.*
-
 # My Portfolio & Projects Showcase
 
 
